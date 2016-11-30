@@ -1,0 +1,19 @@
+body {
+	background-color: yellow;
+	color: red;
+}
+
+h1 {
+	color: blue;
+}
+
+p {
+	font-size: 20px;
+}
+
+img {
+	max-width: 2500px;
+	height: 500px;
+	background-color: powderblue;
+}
+
