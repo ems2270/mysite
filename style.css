@@ -17,3 +17,27 @@ img {
 	background-color: powderblue;
 }
 
+
+h1 {
+	font-family: 'Corben', Georgia, Times, serif;
+	font-size: 40px;
+	line-height: 55px;
+}
+ 
+h1 {
+	font-family: 'Dancing Script', Georgia, Times, serif;
+	font-size: 59px;
+	line-height: 60px;
+}
+ 
+h1 {
+	font-family: 'Corben', Georgia, Times, serif;
+	font-size: 40px;
+	line-height: 55px;
+}
+ 
+p, li {
+	font-family: 'Nobile', Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	line-height: 25px;
+}
